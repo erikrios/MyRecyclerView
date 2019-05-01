@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:apps="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_list"
+        android:title="@string/list"
+        apps:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_grid"
+        android:title="@string/grid"
+        apps:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_withcardview"
+        android:title="@string/with_cardview"
+        apps:showAsAction="never"/>
+</menu>
